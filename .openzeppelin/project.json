@@ -1,0 +1,15 @@
+{
+  "manifestVersion": "2.2",
+  "contracts": {
+    "Hash": "Hash"
+  },
+  "dependencies": {},
+  "name": "ipfs-upload-dapp",
+  "version": "1.0.2",
+  "compiler": {
+    "manager": "truffle",
+    "compilerSettings": {
+      "optimizer": {}
+    }
+  }
+}
